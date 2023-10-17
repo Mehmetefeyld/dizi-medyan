@@ -1,0 +1,8 @@
+C:\Users\MEHMET EFE\source\repos\final11\final11\bin\Debug\final11.exe.config
+C:\Users\MEHMET EFE\source\repos\final11\final11\bin\Debug\final11.exe
+C:\Users\MEHMET EFE\source\repos\final11\final11\bin\Debug\final11.pdb
+C:\Users\MEHMET EFE\source\repos\final11\final11\obj\Debug\final11.csproj.AssemblyReference.cache
+C:\Users\MEHMET EFE\source\repos\final11\final11\obj\Debug\final11.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET EFE\source\repos\final11\final11\obj\Debug\final11.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EFE\source\repos\final11\final11\obj\Debug\final11.exe
+C:\Users\MEHMET EFE\source\repos\final11\final11\obj\Debug\final11.pdb
